@@ -1,1 +1,3 @@
-GridFun
+# GridFun
+
+Brightly coloured abstract grids
